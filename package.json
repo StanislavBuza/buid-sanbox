@@ -1,0 +1,19 @@
+{
+  "name": "build-sandbox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Stanislav Buza",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "@babel/cli": "^7.11.6",
+    "@babel/core": "^7.11.6",
+    "@babel/plugin-transform-template-literals": "^7.10.5",
+    "@babel/plugin-transform-block-scoping": "^7.11.1",
+    "@babel/plugin-transform-classes": "^7.10.4"
+  }
+}
